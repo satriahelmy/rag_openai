@@ -1,2 +1,3 @@
 .env
 /llmopenai
+/__pycache__
